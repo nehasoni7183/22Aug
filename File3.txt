@@ -2,3 +2,5 @@ test revert
 
 modified 
 
+test for git pull and fetch
+
